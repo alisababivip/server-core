@@ -1,0 +1,5 @@
+{
+    "paymentCard": "Nạp thẻ cào:\n- Thời gian: {{time}}\n- Người nạp: {{username}}/{{name}}\n- Số điện thoại: {{phone}}\t\n- Mã giao dịch: {{transId}}\n- Nhà mạng : {{network}}\t\n- Số tiền: {{amount}}\n- Số seri: {{seri}}\t\n- Số thẻ: {{pin}}\t",
+    "paymentBank": "Nạp Tiền:\n- Thời gian: {{time}}\n- Người nạp: {{username}}/{{name}}\n- Số điện thoại: {{phone}}\t\n- Mã giao dịch: {{transId}}\n- Kiểu nạp: {{chargeTypeProvide}}\n- Ngân hàng : {{chargeTypeCode}}\t\n- Số tiền: {{amount}}",
+    "paymentWithdraw": "Rút Tiền:\n- Thời gian: {{time}}\n- Người nạp: {{username}}/{{name}}\n- Số điện thoại: {{phone}}\t\n- Mã giao dịch: {{transId}}\n- Kiểu nạp: {{chargeTypeProvide}}\n- Ngân hàng : {{chargeTypeCode}}\t\n- Số tiền: {{amount}}"
+}

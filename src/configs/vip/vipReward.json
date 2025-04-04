@@ -1,0 +1,65 @@
+[
+    {
+        "__Vip_0__": "Vip 0 - Cấp Vip khi User đăng kí",
+        "deposit_require": 0,
+        "coin_reward": 0,
+        "coin_monthly": 0,
+        "percent_relief": 0,
+        "next_vip_level": 1,
+        "next_vip_deposit_require": 12000000
+    },
+    {
+        "__Vip_1__": "Vip 1",
+        "deposit_require": 12000000,
+        "coin_reward": 68000,
+        "coin_monthly": 38000,
+        "percent_relief": 0.7,
+        "next_vip_level": 2,
+        "next_vip_deposit_require": 60000000
+    },
+    {
+        "__Vip_2__": "Vip 2",
+        "deposit_require": 60000000,
+        "coin_reward": 238000,
+        "coin_monthly": 68000,
+        "percent_relief": 0.8,
+        "next_vip_level": 3,
+        "next_vip_deposit_require": 180000000
+    },
+    {
+        "__Vip_3__": "Vip 3",
+        "deposit_require": 180000000,
+        "coin_reward": 388000,
+        "coin_monthly": 88000,
+        "percent_relief": 0.9,
+        "next_vip_level": 4,
+        "next_vip_deposit_require": 500000000
+    },
+    {
+        "__Vip_4__": "Vip 4",
+        "deposit_require": 500000000,
+        "coin_reward": 1380000,
+        "coin_monthly": 138000,
+        "percent_relief": 1,
+        "next_vip_level": 5,
+        "next_vip_deposit_require": 2000000000
+    },
+    {
+        "__Vip_5__": "Vip 5",
+        "deposit_require": 2000000000,
+        "coin_reward": 2888000,
+        "coin_monthly": 188000,
+        "percent_relief": 1.2,
+        "next_vip_level": 6,
+        "next_vip_deposit_require": 5000000000
+    },
+    {
+        "__Vip_6__": "Vip 6",
+        "deposit_require": 5000000000,
+        "coin_reward": 5888000,
+        "coin_monthly": 588000,
+        "percent_relief": 1.5,
+        "next_vip_level": 7,
+        "next_vip_deposit_require": 10000000000
+    }
+]

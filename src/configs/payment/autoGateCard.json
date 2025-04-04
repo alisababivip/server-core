@@ -1,0 +1,5 @@
+{
+    "entryPoint": "http://api.tivitrungquoc.live",
+    "apikey": "d70d156e-5345-4a69-9dfc-495cb0126597",
+    "callback_url": "https://api.s168b.com/entry/callback/rechargeCard"
+}

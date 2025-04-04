@@ -1,0 +1,79 @@
+{
+  "AG": {
+    "config": "API_1",
+    "type": 4,
+    "game": "XXXXXX",
+    "name": "AG Casino",
+    "mode": 1
+  },
+  "DG": {
+    "config": "API_1",
+    "type": 27,
+    "game": "XXXXXX",
+    "name": "DG Casino",
+    "mode": 1
+  },
+  "EG": {
+    "config": "API_1",
+    "type": 86,
+    "game": "XXXXXX",
+    "name": "EVO Casino",
+    "mode": 1
+  },
+  "SEX": {
+    "config": "API_1",
+    "type": 112,
+    "game": "XXXXXX",
+    "name": "SEX Casino",
+    "mode": 1
+  },
+  "SABA": {
+    "config": "API_1",
+    "type": 137,
+    "game": "XXXXXX",
+    "name": "SABA Thể Thao",
+    "mode": 1
+  },
+  "CMD": {
+    "config": "API_1",
+    "type": 104,
+    "game": "XXXXXX",
+    "name": "CMD Thể Thao",
+    "mode": 1
+  },
+  "GPI": {
+    "config": "API_1",
+    "type": 76,
+    "game": "XXXXXX",
+    "name": "GPI Casino",
+    "mode": 1
+  },
+  "BB": {
+    "config": "API_1",
+    "type": 79,
+    "game": "XXXXXX",
+    "name": "BB Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "CQ9": {
+    "config": "API_1",
+    "type": 16,
+    "game": "XXXXXX",
+    "name": "CQ9 Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "JL": {
+    "config": "API_1",
+    "type": 140,
+    "game": "XXXXXX",
+    "name": "JL Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "TCG_VNLOTT": {
+    "config": "API_1",
+    "type": 420,
+    "game": "XXXXXX",
+    "name": "VNLOTT Xổ Số",
+    "mode": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "entryPoint": "http://mopay2.vnm.bz:10007",
+    "loginPw": "123123123",
+    "apikey": "88b1a8ea-7301-4fb8-8634-8220041a1c7e",
+    "callback_url": "https://api.kingcatb.com/entry/callback/recharge"
+}

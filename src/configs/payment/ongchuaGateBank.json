@@ -1,0 +1,9 @@
+{
+    "apiUrl": "https://btvn.online",
+    "partnerId": "TDU",
+    "partnerKey": "047b242905b2b238383c8151162a8207",
+    "callbackUrl": {
+        "deposit": "https://google.com/deposit",
+        "withdraw": "https://google.com/withdraw"
+    }
+}

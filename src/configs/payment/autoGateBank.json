@@ -1,0 +1,7 @@
+{
+    "entryPoint": "http://mopay2.vnm.bz:10007",
+    "loginPw": "xoso228",
+    "apikey": "2e893e95-3d62-45bc-96d9-2baab61416b3",
+    "withDraw_Message": "Xoso228 withdraw",
+    "callback_url": "https://api.xoso228.com/entry/callback/recharge"
+}

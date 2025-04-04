@@ -1,0 +1,102 @@
+[
+    {
+        "code": "MOMO",
+        "name": "Ví điện tử Momo"
+    },
+    {
+        "code": "VCB",
+        "name": "Vietcombank"
+    },
+    {
+        "code": "BIDV",
+        "name": "Đầu tư và phát triển BIDV"
+    },
+    {
+        "code": "VIETINBANK",
+        "name": "Công thương VN - VietinBank"
+    },
+    {
+        "code": "VBA",
+        "name": "Nông nghiệp và phát triển nông thôn - Agribank"
+    },
+    {
+        "code": "VPB",
+        "name": "Việt nam thịnh vượng VPBank"
+    },
+    {
+        "code": "VIB",
+        "name": "Ngân hàng Quốc tế"
+    },
+    {
+        "code": "SHB",
+        "name": "Sài gòn hà nội"
+    },
+    {
+        "code": "TPB",
+        "name": "Tiên phong TPBank"
+    },
+    {
+        "code": "TCB",
+        "name": "Kỹ thương Techcombank"
+    },
+    {
+        "code": "MSB",
+        "name": "Hàng hải Msb"
+    },
+    {
+        "code": "SCB",
+        "name": "Sài gòn"
+    },
+    {
+        "code": "STB",
+        "name": "Sacombank"
+    },
+    {
+        "code": "ACB",
+        "name": "Á châu"
+    },
+    {
+        "code": "DAB",
+        "name": "Đông á"
+    },
+    {
+        "code": "LPB",
+        "name": "Bưu điện liên việt"
+    },
+    {
+        "code": "SHBVN",
+        "name": "Shinhan việt nam"
+    },
+    {
+        "code": "CITIBANK",
+        "name": "CitiBank việt nam"
+    },
+    {
+        "code": "HSBC",
+        "name": "HSBC việt nam"
+    },
+    {
+        "code": "MB",
+        "name": "Quân đội MBBank"
+    },
+    {
+        "code": "SEABANK",
+        "name": "TMCP Dong nam á - SeaBank"
+    },
+    {
+        "code": "HDB",
+        "name": "TMCP Phát triển TP.HCM - HDB"
+    },
+    {
+        "code": "NCB",
+        "name": "TMCP Quốc dân - NCB"
+    },
+    {
+        "code": "PBVN",
+        "name": "TNHH MTV Public VietNam - PBVN"
+    },
+    {
+        "code": "OCB",
+        "name": "TMCP PHUONG DONG - OCB"
+    }
+]
